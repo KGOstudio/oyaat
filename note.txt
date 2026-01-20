@@ -1,0 +1,13 @@
+| **Name**                          | **Hex Code**                                        | **RGB**         | **Usage**                                            |
+| --------------------------------- | --------------------------------------------------- | --------------- | ---------------------------------------------------- |
+| **Cosmic Blue**                   | `#3B82F6`                                           | (59, 130, 246)  | Primary buttons, highlights, main brand color        |
+| **Nebula Purple**                 | `#8B5CF6`                                           | (139, 92, 246)  | Secondary accents, icons, hover states               |
+| **Aurora Mint**                   | `#22D3A7`                                           | (34, 211, 167)  | Success states, delivery tags (“Delivered”)          |
+| **Solar Yellow**                  | `#FACC15`                                           | (250, 204, 21)  | Warning / pending states (“In Orbit”)                |
+| **Nova Red**                      | `#F43F5E`                                           | (244, 63, 94)   | Error / failed delivery states                       |
+| **Deep Space**                    | `#0B0F19`                                           | (11, 15, 25)    | Background color (main app background)               |
+| **Starlight Gray**                | `#1E293B`                                           | (30, 41, 59)    | Card backgrounds, modals, bottom nav bar             |
+| **White Smoke**                   | `#F9FAFB`                                           | (249, 250, 251) | Primary text color on dark backgrounds               |
+| **Satellite Gray**                | `#9CA3AF`                                           | (156, 163, 175) | Secondary text (subtitles, timestamps)               |
+| **Void Black**                    | `#030712`                                           | (3, 7, 18)      | Optional deep background for header/footer gradients |
+| **Star Glow (Optional gradient)** | `linear-gradient(135deg, #3B82F6 0%, #8B5CF6 100%)` | —               | For glowing buttons or call-to-action areas          |
